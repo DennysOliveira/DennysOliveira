@@ -1,16 +1,46 @@
-### Hi there 👋
+## <p align="center">Hello!</p>
 
-<!--
-**bardsnight/bardsnight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Dennys, aspiring to be a great Full Stack Developer.
 
-Here are some ideas to get you started:
+Currently studying but not limited to - Web Development with **React**, **Node**, **Express** and **MongoDB**. <br>
+Open to ideas, projects and fun stuff to learn.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you feel like, my socials are below so you can connect with me.
+
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dennysm/)
+[![Mail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=flat&logo=protonmail&logoColor=white)](mailto:dennysm@pm.me)
+
+### Repositories Overview
+<img align="top" src="https://github-readme-stats.vercel.app/api?username=bardsnight&hide_rank=true&hide=issues,contribs&count_private=true&show_icons=true&theme=swift">
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=swift">
+
+### Pinned Repositories
+<div>
+    <a href="">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=swift&username=bardsnight&repo=dsdeliver-sds2"/>    
+    </a>&ensp;
+    <a href="" style="margin-left: 5px"> 
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?&theme=swift&username=bardsnight&repo=unity-2d-online-rpg"/>  
+    </a>
+</div>
+&hairsp;
+<div >
+    <a href="" > 
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?&theme=swift&username=bardsnight&repo=aps-proj"/>  
+    </a>&ensp;
+    <a href="" style="margin-left: 5px"> 
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=swift&username=bardsnight&repo=node-blog-example"/>  
+    </a>
+</div>
+&hairsp;
+<div>
+    <a href=""> 
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=swift&username=bardsnight&repo=node-express-jwt-auth"/>  
+    </a>&ensp;
+    <a href="" style="margin-left: 5px"> 
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=swift&username=bardsnight&repo=discordjs-mmo-guild-bot"/>  
+    </a>
+</div>
+
+&ensp;
+
