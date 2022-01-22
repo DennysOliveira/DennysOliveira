@@ -16,28 +16,28 @@ If you feel like, my socials are below so you can connect with me.
 
 ### Pinned Repositories
 <div>
-    <a href="">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=swift&username=bardsnight&repo=dsdeliver-sds2"/>    
+    <a href="https://github.com/bardsnight/food-delivery-app">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=swift&username=bardsnight&repo=food-delivery-app"/>    
     </a>&ensp;
-    <a href="" style="margin-left: 5px"> 
+    <a href="https://github.com/bardsnight/unity-2d-online-rpg"> 
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?&theme=swift&username=bardsnight&repo=unity-2d-online-rpg"/>  
     </a>
 </div>
 &hairsp;
 <div >
-    <a href="" > 
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?&theme=swift&username=bardsnight&repo=aps-proj"/>  
+    <a href="https://github.com/bardsnight/rsa-cryptography-auth"> 
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?&theme=swift&username=bardsnight&repo=rsa-cryptography-auth"/>  
     </a>&ensp;
-    <a href="" style="margin-left: 5px"> 
+    <a href="https://github.com/bardsnight/node-blog-example" style="margin-left: 5px"> 
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=swift&username=bardsnight&repo=node-blog-example"/>  
     </a>
 </div>
 &hairsp;
 <div>
-    <a href=""> 
+    <a href="https://github.com/bardsnight/node-express-jwt-auth"> 
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=swift&username=bardsnight&repo=node-express-jwt-auth"/>  
     </a>&ensp;
-    <a href="" style="margin-left: 5px"> 
+    <a href="https://github.com/bardsnight/discordjs-mmo-guild-bot" style="margin-left: 5px"> 
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=swift&username=bardsnight&repo=discordjs-mmo-guild-bot"/>  
     </a>
 </div>
