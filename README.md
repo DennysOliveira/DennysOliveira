@@ -11,8 +11,8 @@ If you feel like, my socials are below so you can connect with me.
 [![Mail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=flat&logo=protonmail&logoColor=white)](mailto:dennysm@pm.me)
 
 ### Repositories Overview
-<img align="top" src="https://github-readme-stats.vercel.app/api?username=bardsnight&hide_rank=true&hide=issues,contribs&count_private=true&show_icons=true&theme=swift">
-<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=swift">
+<a><img align="top" src="https://github-readme-stats.vercel.app/api?username=bardsnight&hide_rank=true&hide=issues,contribs&count_private=true&show_icons=true&theme=swift">
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=swift"></a>
 
 ### Pinned Repositories
 <div>
