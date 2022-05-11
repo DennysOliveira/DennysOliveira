@@ -11,8 +11,8 @@ All that aside, I am open to new ideas, projects and fun stuff to learn!
 
 If you feel like, my socials are below so you can connect with me.
 
-[![Linkedin Badge](https://img.shields.io/badge/Linkedin-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dennysm/)
-[![Mail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=flat&logo=protonmail&logoColor=white)](mailto:dennysm@pm.me)
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-2B2D2E?style=flat&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/dennysm/)
+[![Mail Badge](https://img.shields.io/badge/Mail-me@dennys.dev-2B2D2E?style=flat&logo=minutemailer&logoColor=white&labelColor=101010)](mailto:me@dennys.dev)
 
 <div align="left">
     
