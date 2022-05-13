@@ -13,6 +13,8 @@ If you feel like, my socials are below so you can connect with me.
 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-2B2D2E?style=flat&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/dennysm/)
 [![Mail Badge](https://img.shields.io/badge/Mail-me@dennys.dev-2B2D2E?style=flat&logo=minutemailer&logoColor=white&labelColor=101010)](mailto:me@dennys.dev)
+[![Whatsapp Badge](https://img.shields.io/badge/+55%2012%2099782%201301-2B2D2E?style=flat&logo=whatsapp&logoColor=white&labelColor=101010)](https://wa.me/5512997821301)
+
 
 <div align="left">
     
