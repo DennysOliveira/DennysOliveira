@@ -17,3 +17,39 @@ If you feel like, my socials are below so you can connect with me.
 
 
 
+<div align="left">
+
+### Repositories Overview
+
+<a><img align="top" src="https://github-readme-stats.vercel.app/api?username=DennysOliveira&hide_title=true&count_private=true&show_icons=true&theme=swift">&ensp;<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=swift"></a>
+
+### Pinned Repositories
+<div>
+    <a href="https://github.com/DennysOliveira/food-delivery-app">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=swift&username=DennysOliveira&repo=food-delivery-app"/>    
+    </a>&ensp;
+    <a href="https://github.com/bardsDennysOliveiranight/unity-2d-online-rpg"> 
+        <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?&theme=swift&username=DennysOliveira&repo=unity-2d-online-rpg"/>  
+    </a>
+</div>
+&hairsp;
+<div>
+    <a href="https://github.com/DennysOliveira/rsa-cryptography-auth"> 
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?&theme=swift&username=DennysOliveira&repo=rsa-cryptography-auth"/>  
+    </a>&ensp;
+    <a href="https://github.com/DennysOliveira/node-blog-example" style="margin-left: 5px"> 
+        <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=swift&username=DennysOliveira&repo=node-blog-example"/>  
+    </a>
+</div>
+&hairsp;
+<div>
+    <a href="https://github.com/DennysOliveira/node-express-jwt-auth"> 
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=swift&username=DennysOliveira&repo=node-express-jwt-auth"/>  
+    </a>&ensp;
+    <a href="https://github.com/DennysOliveira/discordjs-mmo-guild-bot" style="margin-left: 5px"> 
+        <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=swift&username=DennysOliveira&repo=discordjs-mmo-guild-bot"/>  
+    </a>
+</div>
+</div>
+
+&ensp;
