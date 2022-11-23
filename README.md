@@ -2,10 +2,10 @@
 
 I am Dennys Marcos, a Full Stack Web Developer.
 
-Currently studying but not limited to - Web Development with **React**, **Node**, **Express**, **Spring**,  **MongoDB**, **PostgreSQL**. <br>
+Currently studying & working with - but not limited to - Web Development with **Node**, **AWS Lambda**, **Serverless**, **React**, **MySQL**, **PostgreSQL**, **MongoDB**. <br>
 
 I do not limit my studies to Web Development but that **is** my focus.
-I do have some background with Game Development, specifically at the server side, that was meant to specifically ramp up my knowledge with networking, though.
+I do have some background with Game Development, specifically at the server side, which when learning, I intended to specifically ramp up my knowledge with real-time networking, handling and improvements of performance with large concurrency.
 
 All that aside, I am open to new ideas, projects and fun stuff to learn!
 
