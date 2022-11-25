@@ -28,7 +28,7 @@ If you feel like, my socials are below so you can connect with me.
     <a href="https://github.com/DennysOliveira/food-delivery-app">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=swift&username=DennysOliveira&repo=food-delivery-app"/>    
     </a>&ensp;
-    <a href="https://github.com/bardsDennysOliveiranight/unity-2d-online-rpg"> 
+    <a href="https://github.com/DennysOliveira/unity-2d-online-rpg"> 
         <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?&theme=swift&username=DennysOliveira&repo=unity-2d-online-rpg"/>  
     </a>
 </div>
