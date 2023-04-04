@@ -18,11 +18,6 @@ If you feel like, my socials are below so you can connect with me.
 
 
 <div align="left">
-
-### Repositories Overview
-
-<a><img align="top" src="https://github-readme-stats.vercel.app/api?username=DennysOliveira&hide_title=true&count_private=true&show_icons=true&theme=swift">&ensp;<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=swift"></a>
-
 ### Pinned Repositories
 <div>
     <a href="https://github.com/DennysOliveira/food-delivery-app">
