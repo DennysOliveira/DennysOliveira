@@ -16,8 +16,6 @@ If you feel like, my socials are below so you can connect with me.
 [![Whatsapp Badge](https://img.shields.io/badge/+55%2012%2099782%201301-2B2D2E?style=flat&logo=whatsapp&logoColor=white&labelColor=101010)](https://wa.me/5512997821301)
 
 
-
-<div align="left">
 ### Pinned Repositories
 <div>
     <a href="https://github.com/DennysOliveira/food-delivery-app">
