@@ -1,10 +1,10 @@
 ## <p align="center">Hello!</p>
 
-I am Dennys Marcos, a Full Stack Web Developer.
+I am Dennys, a Full Stack Web Developer (with a tad bit - maybe a lot - on infrastructure and DevOps).
 
-Currently working with - but not limited to - Web Development with **Node**, **AWS Lambda**, **Serverless**, **React**, **MySQL**, **PostgreSQL**, **MongoDB**. <br>
+Currently working with - but not limited to - integrations & Web Development with **Node.JS**, **AWS Lambda powered by Serverless**, **Serverless**, **React & Vue micro front-ends**, **MySQL and MongoDB data persistency**, as well as a lot of newer and modern tools. Not forgetting AI. All over tech. <br>
 
-I do not limit my studies to Web Development but that **is** my focus.
+I do not limit my work & research to Web Development but that **is** my ongoing focus.
 I do have some background with Game Development, specifically at the server side, which when learning, I intended to specifically ramp up my knowledge with real-time networking, handling and improvements of performance with large concurrency.
 
 All that aside, I am open to new ideas, projects and fun stuff to learn :)
